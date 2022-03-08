@@ -2,7 +2,7 @@
     <img
       width="400"
       align="right"
-      src="https://raw.githubusercontent.com/ragavkumarv/ragavkumarv/devcard/devcard.svg"
+      src="https://github.com/ragavkumarv/ragavkumarv/blob/main/devcard.svg"
       alt="Ragav Kumar V's Dev Card"
     />
   </a>
