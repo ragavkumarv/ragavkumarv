@@ -1,3 +1,13 @@
+  <a href="https://api.daily.dev/ragavkumarv">
+    <img
+      width="400"
+      align="right"
+      src="https://raw.githubusercontent.com/ragavkumarv/ragavkumarv/devcard/devcard.svg"
+      alt="Ragav Kumar V's Dev Card"
+    />
+  </a>
+ 
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Ragav Kumar, Fullstack developer with the right mix of Functional programming from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Chennai, Tamil Nadu.</b> 
