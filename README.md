@@ -1,4 +1,4 @@
-  <a href="https://api.daily.dev/ragavkumarv">
+  <a href="https://app.daily.dev/ragavkumarv">
     <img
       width="400"
       align="right"
