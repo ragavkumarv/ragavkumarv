@@ -44,6 +44,8 @@
 
 ## 😄 Cool Stats
 
+<img src="https://komarev.com/ghpvc/?username=ragavkumarv&label=Profile+Views&style=flat-square&color=hotpink" />
+
 ![Ragav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragavkumarv&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ragavkumarv&theme=radical)
